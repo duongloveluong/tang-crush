@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'em biết mà 🥰. Yêu chị nhiều nhiều 😘😘',
     messDesc: 'yêu chị nhất thế giới😗😗😗.',
-    btnAccept: 'cho véo má nèee 😗 <3',
+    btnAccept: 'cho hun má miếng nha <3',
     messLink: "https://m.me/duong.sky.129"
 }
